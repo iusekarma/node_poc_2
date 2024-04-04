@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Title Extensions",
+    "description": "An extension which ectract title from the page.",
+    "version": "1.0",
+    "permissions": ["activeTab"],
+    "action": {
+      "default_popup": "index.html"
+    }
+}
